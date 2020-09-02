@@ -3,7 +3,7 @@ Mochi is a simple, open source, blogging platform for you to share your thoughts
 
 ## Motivation
 
-The reason I built Mochi is because I felt the blogging tools available too me were lacking this sort of "in between" where
+The reason I built Mochi is because I felt the blogging tools available to me were lacking this sort of "in between" where I could easily spin up a full-featured blog, have an iOS native writing experience, and still have full control over how it's deployed and the code.
 
 ## Who is Mochi for?
 
@@ -16,6 +16,10 @@ Mochi has been built for a more technical user. It requires a fair amount of tec
 - Download the Gatsby blog frontend
 - Download the API
 - Download the iOS app
+
+(Mochi API)[https://github.com/brandonmowat/Mochi-API]
+(Mochi Web)[] <- See github.com/brandonmowat/blog
+(Mochi iOS Editor)[https://github.com/brandonmowat/Mochi-iOS]
 
 ## TODO:
 
