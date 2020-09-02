@@ -30,4 +30,6 @@ Mochi has been built for a more technical user. It requires a fair amount of tec
 - [ ]  Add a web editing version
 - [ ]  Add API validation
 - [ ]  Add users collection for contributing users
-- [ ]  make content view not autofocus
+- [x]  make content view not autofocus (iOS)
+- [ ]  Add shortcut to save (iOS)
+- [ ]  Versioning?
