@@ -17,9 +17,9 @@ Mochi has been built for a more technical user. It requires a fair amount of tec
 - Download the API
 - Download the iOS app
 
-(Mochi API)[https://github.com/brandonmowat/Mochi-API]
-(Mochi Web)[] <- See github.com/brandonmowat/blog
-(Mochi iOS Editor)[https://github.com/brandonmowat/Mochi-iOS]
+[Mochi API](https://github.com/brandonmowat/Mochi-API)
+[Mochi Web]() <- See github.com/brandonmowat/blog
+[Mochi iOS Editor](https://github.com/brandonmowat/Mochi-iOS)
 
 ## TODO:
 
