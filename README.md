@@ -1,4 +1,4 @@
-![Mochi Logo](https://user-images.githubusercontent.com/5758214/92011322-e712fa00-ed18-11ea-8df0-334e5dfc3f4.jpeg)
+![Mochi Logo](https://user-images.githubusercontent.com/5758214/92011892-b8e1ea00-ed19-11ea-946e-347a69706e24.png)
 # Mochi
 Mochi is a simple, open source, blogging platform for you to share your thoughts and ideas. The main differentiator between Mochi and other vanilla blogging platforms is that it has an iOS companion app for writing your content on.
 
