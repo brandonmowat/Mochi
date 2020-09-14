@@ -36,7 +36,7 @@ Mochi has been built for a more technical user. It requires a fair amount of tec
 - [x]  Create iOS app to write new, update, and delete content
 - [x]  Add Markdown support
 - [ ]  Add a web editing version
-- [ ]  Add API validation
+- [x]  Add API validation
 - [ ]  Add users collection for contributing users
 - [x]  make content view not autofocus (iOS)
 - [x]  Add shortcut to save (iOS)
