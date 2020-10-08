@@ -15,6 +15,8 @@ Mochi has been built for a more technical user. It requires a fair amount of tec
 
 ## How does Mochi work?
 
+![Mochi Architecture](https://i.imgur.com/GOZM9pn.png)
+
 ## How do I set it up?
 
 - Download the Gatsby blog frontend
