@@ -36,6 +36,7 @@ You'll want to create a Heroku account if you don't have one already. Clone the 
 
 You'll need to set the following environment variables:
 - `MONGODB_URI` (You'll create this in the next step)
+- `BUILD_HOOK_URL` (Your netlify build hook)
 - `ADMIN_USERNAME` (you'll need these for API Authentication)
 - `ADMIN_PASSWORD`
 
