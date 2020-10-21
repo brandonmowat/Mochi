@@ -50,6 +50,20 @@ Once created, get your mogodbURI. Add `MONGODB_URI` as an environment variable w
 
 You can do this by cloning the App and running it on your phone or iPad. There aren't any articles yet because mochi doesn't know where your server is or have the credentials to connect. To set it up, open the settings modal by hitting the Settings button in the top left of the app. Input the api path (it's your `heroku url` + `/api/v1/`), as well as the admin username and password.
 
+### Deploy your web view
+
+I built Mochi with Netlify in mind and I recommend using them for your own instance. I'll assume you're going to use them as well 
+
+Clone/Fork Mochi Web and push it to your own git repo. Create a Netlify account -- it's free. Go into Netlify and _Create a new site from git_. Once that's live, create a new Build Hook from your website settings in Netlify. Grab that URL and add it as an environment variable called `BUILD_HOOK_URL` in your API (in Heroku).
+
+### TADA 
+
+You did it! Everything should work as expected. You should now be able to write new articles on the iOS app and have them build as static files to your blog.
+
+If you have any bugs, tweet at me or create an issue.
+
+Thanks for using Mochi 
+
 ## TODO:
 
 - [x]  Create SSR Web blog
