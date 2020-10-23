@@ -25,7 +25,7 @@ You can deploy Mochi however you like, but in these instructions, I'll be walkin
 4. Set up web view
 
 [Mochi API](https://github.com/brandonmowat/Mochi-API)
-[Mochi Web]() <- See github.com/brandonmowat/blog
+[Mochi Web](https://github.com/brandonmowat/mochi-web)
 [Mochi iOS Editor](https://github.com/brandonmowat/Mochi-iOS)
 
 ### Set up the API
