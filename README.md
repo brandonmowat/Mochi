@@ -54,6 +54,9 @@ You can do this by cloning the App and running it on your phone or iPad. There a
 
 I built Mochi with Netlify in mind and I recommend using them for your own instance. I'll assume you're going to use them as well 
 
+Make sure to also set the `API_ROOT` environment variable in the `.env`. 
+For my own blog, that's `https://brandon-server.herokuapp.com/articles/`
+
 Clone/Fork Mochi Web and push it to your own git repo. Create a Netlify account -- it's free. Go into Netlify and _Create a new site from git_. Once that's live, create a new Build Hook from your website settings in Netlify. Grab that URL and add it as an environment variable called `BUILD_HOOK_URL` in your API (in Heroku).
 
 ### TADA 
