@@ -1,7 +1,5 @@
 ![Mochi Logo](https://user-images.githubusercontent.com/5758214/92011892-b8e1ea00-ed19-11ea-946e-347a69706e24.png)
 
-<iframe src="https://github.com/sponsors/brandonmowat/button" title="Sponsor brandonmowat" height="35" width="116" style="border: 0;"></iframe>
-
 # Mochi 🍬
 Mochi is a simple, open source, blogging platform for you to share your thoughts and ideas. The main differentiator between Mochi and other vanilla blogging platforms is that it has an iOS companion app for writing your content on.
 
@@ -69,9 +67,6 @@ You did it! Everything should work as expected. You should now be able to write 
 If you have any bugs, tweet at me or create an issue.
 
 Thanks for using Mochi 🎉
-
-# Support:
-<iframe src="https://github.com/sponsors/brandonmowat/button" title="Sponsor brandonmowat" height="35" width="116" style="border: 0;"></iframe>
 
 ## TODO:
 
