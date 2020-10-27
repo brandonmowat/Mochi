@@ -1,6 +1,6 @@
 ![Mochi Logo](https://user-images.githubusercontent.com/5758214/92011892-b8e1ea00-ed19-11ea-946e-347a69706e24.png)
 
-# Mochi
+# Mochi 🍬
 Mochi is a simple, open source, blogging platform for you to share your thoughts and ideas. The main differentiator between Mochi and other vanilla blogging platforms is that it has an iOS companion app for writing your content on.
 
 [Mochi iOS Editor](https://github.com/brandonmowat/Mochi-iOS) |
@@ -53,20 +53,20 @@ You can do this by cloning the App and running it on your phone or iPad. There a
 
 ### Deploy your web view
 
-I built Mochi with Netlify in mind and I recommend using them for your own instance. I'll assume you're going to use them as well 
+I built Mochi with Netlify in mind and I recommend using them for your own instance. I'll assume you're going to use them as well 😊
 
 Make sure to also set the `API_ROOT` environment variable in the `.env`. 
 For my own blog, that's `https://brandon-server.herokuapp.com/articles/`
 
 Clone/Fork Mochi Web and push it to your own git repo. Create a Netlify account -- it's free. Go into Netlify and _Create a new site from git_. Once that's live, create a new Build Hook from your website settings in Netlify. Grab that URL and add it as an environment variable called `BUILD_HOOK_URL` in your API (in Heroku).
 
-### TADA 
+### TADA 🎉
 
 You did it! Everything should work as expected. You should now be able to write new articles on the iOS app and have them build as static files to your blog.
 
 If you have any bugs, tweet at me or create an issue.
 
-Thanks for using Mochi 
+Thanks for using Mochi 🎉
 
 ## TODO:
 
