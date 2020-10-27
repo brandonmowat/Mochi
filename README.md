@@ -5,7 +5,7 @@ Mochi is a simple, open source, blogging platform for you to share your thoughts
 
 [Mochi iOS Editor](https://github.com/brandonmowat/Mochi-iOS) |
 [Mochi API](https://github.com/brandonmowat/Mochi-API) |
-[Mochi Web](https://github.com/brandonmowat/mochi-web)
+[Mochi Web](https://github.com/brandonmowat/Mochi-Web)
 
 ## Motivation
 
@@ -26,7 +26,7 @@ You can deploy Mochi however you like, but in these instructions, I'll be walkin
 1. Set up API [Mochi API](https://github.com/brandonmowat/Mochi-API)
 2. Set up your database
 3. Download the iOS App [Mochi iOS Editor](https://github.com/brandonmowat/Mochi-iOS)
-4. Set up web view [Mochi Web](https://github.com/brandonmowat/mochi-web)
+4. Set up web view [Mochi Web](https://github.com/brandonmowat/Mochi-Web)
 
 
 ### Set up the API
